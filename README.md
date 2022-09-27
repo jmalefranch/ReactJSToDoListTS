@@ -6,4 +6,4 @@ To do list, to practice ReactJS + TypeScript.
 
 Developed by @jmalefranch
 
-![img](http://i.imgur.com/7AxdPVP.png)
+![img](http://i.imgur.com/c8dD6dU.png)

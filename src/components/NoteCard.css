@@ -1,0 +1,13 @@
+.CardElementsRight {
+  display: flex;
+  flex-direction: column;
+  max-width: 30px;
+  max-height: 30px;
+  justify-content: center;
+  gap: 7px;
+  margin-top: 23px;
+}
+
+.CardElementsLeft {
+  width: 90%;
+}

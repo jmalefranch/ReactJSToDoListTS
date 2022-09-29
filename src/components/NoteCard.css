@@ -11,3 +11,8 @@
 .CardElementsLeft {
   width: 90%;
 }
+
+.CardElementsLeft img {
+  max-height: 30px;
+  max-width: 30px;
+}
